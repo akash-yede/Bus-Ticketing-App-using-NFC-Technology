@@ -1,0 +1,22 @@
+G:\Project_2014-15\NFCService\NFCService\NFCService\bin\NFCService.dll
+G:\Project_2014-15\NFCService\NFCService\NFCService\bin\NFCService.pdb
+G:\Project_2014-15\NFCService\NFCService\NFCService\obj\Debug\NFCService.dll
+G:\Project_2014-15\NFCService\NFCService\NFCService\obj\Debug\NFCService.pdb
+G:\Project_2014-15\NFCService\NFCService\NFCService\obj\Debug\NFCService.csprojResolveAssemblyReference.cache
+D:\Manoj\WEB SERVICES\NFC_Bus_service\obj\Debug\NFCService.dll
+D:\Manoj\WEB SERVICES\NFC_Bus_service\bin\NFCService.dll
+D:\Manoj\WEB SERVICES\NFC_Bus_service\bin\NFCService.pdb
+D:\Manoj\WEB SERVICES\NFC_Bus_service\obj\Debug\NFCService.pdb
+D:\Manoj\NFC_BUS\NFC_Bus_service\bin\NFCService.dll
+D:\Manoj\NFC_BUS\NFC_Bus_service\bin\NFCService.pdb
+D:\Manoj\NFC_BUS\NFC_Bus_service\obj\Debug\NFCService.dll
+D:\Manoj\NFC_BUS\NFC_Bus_service\obj\Debug\NFCService.pdb
+D:\Manoj\NFC_BUS_MP\NFC_BUS\NFC_Bus_service\bin\NFCService.dll
+D:\Manoj\NFC_BUS_MP\NFC_BUS\NFC_Bus_service\bin\NFCService.pdb
+D:\Manoj\NFC_BUS_MP\NFC_BUS\NFC_Bus_service\obj\Debug\NFCService.dll
+D:\Manoj\NFC_BUS_MP\NFC_BUS\NFC_Bus_service\obj\Debug\NFCService.pdb
+E:\Project\NFC_Bus_service_New\bin\NFCService.dll
+E:\Project\NFC_Bus_service_New\bin\NFCService.pdb
+E:\Project\NFC_Bus_service_New\obj\Debug\NFCService.csprojResolveAssemblyReference.cache
+E:\Project\NFC_Bus_service_New\obj\Debug\NFCService.dll
+E:\Project\NFC_Bus_service_New\obj\Debug\NFCService.pdb
